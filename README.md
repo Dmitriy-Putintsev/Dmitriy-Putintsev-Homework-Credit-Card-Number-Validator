@@ -9,14 +9,14 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* <https://github.com/Dmitriy-Putintsev/Dmitriy-Putintsev-Homework-Credit-Card-Number-Validator/issues/1>
+* [Устройство для проверки номера кредитной карты, выдает ошибку при проверке номера карты](https://github.com/Dmitriy-Putintsev/Dmitriy-Putintsev-Homework-Credit-Card-Number-Validator/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-2---credit-card-number-validator>
-* <https://github.com/Dmitriy-Putintsev/Dmitriy-Putintsev-Homework-Credit-Card-Number-Validator/issues/1>
+* [Задача 2](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-2---credit-card-number-validator)
+* [Устройство для проверки номера кредитной карты, выдает ошибку при проверке номера карты](https://github.com/Dmitriy-Putintsev/Dmitriy-Putintsev-Homework-Credit-Card-Number-Validator/issues/1)
 
 В качестве тестовых данных использовались данные <https://www.freeformatter.com/credit-card-number-generator-validator.html ,  https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-2---credit-card-number-validator>:
 
